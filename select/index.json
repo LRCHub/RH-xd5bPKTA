@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Do They Know It's Christmas? (1984 Version)",
+  "base_artist": "Band Aid",
+  "createdAt": "2025-12-25T11:47:21.053805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/01_Do_They_Know_It's_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/02_Do_They_Know_It's_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas?",
+      "artist": "Temperance",
+      "has_synced": false,
+      "path": "select/03_Do_They_Know_It's_Christmas_Temperance.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do they know it's Christmas",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/04_Do_they_know_it's_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do They Know It’s Christmas?",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/05_Do_They_Know_It’s_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas?",
+      "artist": "Nicotine",
+      "has_synced": false,
+      "path": "select/06_Do_They_Know_It's_Christmas_Nicotine.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do they Know It's Christmas ?",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/07_Do_they_Know_It's_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do They Know Its Christmas",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/08_Do_They_Know_Its_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas?",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/09_Do_They_Know_It's_Christmas_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas?",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/10_Do_They_Know_It's_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas",
+      "artist": "Richard Cheese",
+      "has_synced": false,
+      "path": "select/11_Do_They_Know_It's_Christmas_Richard_Cheese.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas!",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/12_Do_They_Know_It's_Christmas!_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas?",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/13_Do_They_Know_It's_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas?",
+      "artist": "Band Aid",
+      "has_synced": true,
+      "path": "select/14_Do_They_Know_It's_Christmas_Band_Aid.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas",
+      "artist": "Band Aid 20",
+      "has_synced": true,
+      "path": "select/15_Do_They_Know_It's_Christmas_Band_Aid_20.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Do They Know It's Christmas?",
+      "artist": "Band Aid all",
+      "has_synced": true,
+      "path": "select/16_Do_They_Know_It's_Christmas_Band_Aid_all.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do They Know It's Christmas?",
+      "artist": "Band Aid",
+      "has_synced": false,
+      "path": "select/pl_01_Do_They_Know_It's_Christmas_Band_Aid.txt"
+    }
+  ]
+}
